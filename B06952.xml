@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The merchant a-la-mode. To the tune of Which no body can deny.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1713</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06952</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[299]</idno>
+            <idno type="EEBO-CITATION">99893274</idno>
+            <idno type="PROQUEST">ocm99893274</idno>
+            <idno type="VID">181621</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06952)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181621)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[302])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The merchant a-la-mode. To the tune of Which no body can deny.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Read in White-Fryers, near Fleet-Street,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>[1713]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Attend and prepare for a cargo from Dover ..."</note>
+                  <note>The text printed on one side of each leaf, the third leaf on the verso.</note>
+                  <note>A satire against the Duke d'Aumont and the peace with France.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181621:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 134 -->
+            <p>THE MERCHANT A-la-mode.</p>
+            <p>To the Tune of <hi>Which no Body can deny.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Read</hi> in <hi>White-Fryers,</hi> near <hi>Fleet-Street.</hi>
+            </p>
+            <p>Price One Penny.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181621:2"/>
+            <!-- PDF PAGE 135 -->
+            <pb n="3" facs="tcp:181621:2"/>
+            <!-- PDF PAGE 135 -->
+            <head>THE MERCHANT A-la-mode, &amp;c.</head>
+            <lg>
+               <l>ATtend and prepare for a Cargo from <hi>Dover,</hi>
+               </l>
+               <l>The Preludes of Peace with Duke <hi>d' Aumont</hi>'s come over,</l>
+               <l>Which will the true Hearts of each Subject diſcover,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Which no Body can deny, deny, which no body can deny.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>A noble brave Troop rode on Horſeback before him,</l>
+               <l>The People Huzza'd and with Shouts did adore him,</l>
+               <l>Whilſt the <hi>VVhigs</hi> were confounded to ſee ſuch <hi>honorem,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>VVhich,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Their Hopes and Deſigns of a War is all blaſt;</l>
+               <l>Their Times of Inſulting Authority's paſt,</l>
+               <l>Since depriv'd of all Places of Honour and Truſt;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>VVhich,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>A Dance by the Allies hand in hand was begun,</l>
+               <l>Till <hi>England</hi> was tir'd, and wiſh'd to ſit down,</l>
+               <l>The reſt being inrag'd, ſwore the'd Jigg it alone;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>VVhich,</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Muſick ſtruck up to the Tune as before,</l>
+               <l>Yet each ſaid they ne'er had ſuch Partner's before,</l>
+               <l>For the <hi>Dutch</hi> figur'd in, whilſt the <hi>Germains</hi> croſt o'er,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>VVhich,</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then ſtrait a Confuſion and Uproar was made,</l>
+               <l>All <hi>Quondam</hi> Alliance and Friendſhip was void;</l>
+               <l>For the <hi>Germans</hi> a Farthing to Muſick ne'rt paid;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Which,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <pb facs="tcp:181621:3"/>
+               <!-- PDF PAGE 136 -->
+               <pb n="6" facs="tcp:181621:3"/>
+               <!-- PDF PAGE 136 -->
+               <l>Thus, thus we have carry'd the Jeſt on too Far,</l>
+               <l>Have paid all the Charge and Expence of the War,</l>
+               <l>Yet Ingratitude find for our Loſſes and Care;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Which, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The <hi>German</hi>'s Diſpleaſure we've mourn'd by a Peace,</l>
+               <l>And loſt that great Title of <hi>Mighty Allies,</hi>
+               </l>
+               <l>Yet, thanks be to God, we've open'd our Eyes:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>VVhich,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>We thought that the <hi>Dutch</hi> wou'd keep Touch to our Song</l>
+               <l>But they play'd on the <hi>Low Party's</hi> Viol ſo long,</l>
+               <l>The Strings proving falſe, all the Conſort was wrong,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>VVhich,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Thro' mighty Intreatance at laſt they ſqueez'd in,</l>
+               <l>And t' enjoy a Peace their Alliance did joyn,</l>
+               <l>Whilſt the <hi>Emperor's</hi> threſht on the <hi>Danube</hi> and <hi>Rhine,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>VVhich,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>This greatly diſtrub'd all the Factions Train,</l>
+               <l>Since all other Projects and Counſels were vaine,</l>
+               <l>And <hi>John</hi> their <hi>Protector</hi> croſt over the Main.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Which,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>They ſtill had a Proſpect, if War had gon on,</l>
+               <l>To Turn all the State and Prefer honeſt <hi>John,</hi>
+               </l>
+               <l>But their <hi>Miniſtry</hi> chang'd, and their <hi>Captains</hi> forlorn.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Which,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Thus, aſham'd of their Guilt, with Envy and Hate</l>
+               <l>They burn in Revenge of their Dowfaal and Fate,</l>
+               <l>But their Malice, and Int'reſt, and Power's too late;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>VVhich,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Their Secret Deſigns we have valu'd at nought,</l>
+               <l>For PEACE to a general <hi>Finis</hi> is brought,</l>
+               <l>And <hi>Lewis</hi> no more is our Enemy thought;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Which,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>With <hi>France</hi> open Trade and Commerce declare,</l>
+               <l>Forgetting all Quarrels, and Chances of War,</l>
+               <l>Since Glory in Peace we ſhall equally ſhare;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Which,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Thus long we've endanger'd our Fortune and Blood,</l>
+               <l>Yet where's the Ally which to their Text e're ſtood?</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Which,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then Health, laſting Peace, and long Life to our QUEEN,</l>
+               <l>The happy Succeſſion of the Proteſtant Line,</l>
+               <l>And all our Alliance in Union remain;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Which,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Let Civil and Foreign Diſſentions now ceaſe,</l>
+               <l>
+                  <hi>Great-Britain</hi> in Glory and Riches encreaſe,</l>
+               <l>Still enjoying the Fruits of a Glorious PEACE;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Which no Body can deny,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
